@@ -10,3 +10,4 @@ The application can be configured using environment variables. Here are the main
 GOOGLE_PALM_API_KEY: Your Google PaLM API key.
 LANGCHAIN_MODEL: Specify the model used by LangChain.
 Additional configuration options can be added as needed.
+Uses StreamLit module for developement of the front end through python.
